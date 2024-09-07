@@ -1,0 +1,8 @@
+# personal configs into project
+.vscode 
+# shared objects files
+.so
+# headers files
+.h
+# bytecodes
+.class
