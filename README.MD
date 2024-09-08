@@ -2,14 +2,14 @@
 
 ## 🇧🇷 Português
 
-**Este repositório contém um projeto para automação de processos de construção usando um Makefile, com integração entre código C e Java.**
+**Este repositório contém um projeto para a integração e automação do processos de construção de código entre C e Java.**
 
 - **Makefile:** Facilita a automação das etapas de build.
 - **Integração JNI:** Permite a comunicação entre C e Java, demonstrando como criar e utilizar funções nativas em um ambiente Java.
 
 ## 🇬🇧 English
 
-**This repository contains a project for automating build processes using a Makefile, with integration between C and Java code.**
+**This repository contains a project for integrating and automating build processes between C and Java**
 
 - **Makefile:** Facilitates the automation of build steps.
 - **JNI Integration:** Enables communication between C and Java, demonstrating how to create and use native functions in a Java environment.
