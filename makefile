@@ -1,13 +1,10 @@
-# src=$(wildcard *.java) # cria uma lista de .java do dir atual
-# clss=$(src:.java=.class) 
-
 # SET JAVA_HOME PATH !!!
 main=FunctionsJNI
 c_filename=ExporterJNI
 so_target_name=libfunctions
 
 # Compilar usando o JNI(Java Native Interface).
-run: $(clss)
+run:
 	# generated a header file by a java file
 	javac -h . $(main).java
 
